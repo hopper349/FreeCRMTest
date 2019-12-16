@@ -36,6 +36,7 @@ public class TestBase {
         }
     }
 
+    public void name(){}
 
     public static void initialization(){
         String browserName = prop.getProperty("browser");
